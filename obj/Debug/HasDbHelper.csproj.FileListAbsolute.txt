@@ -1,0 +1,5 @@
+C:\Users\fatihh\source\repos\HasDbHelper\bin\Debug\HasDbHelper.dll
+C:\Users\fatihh\source\repos\HasDbHelper\bin\Debug\HasDbHelper.pdb
+C:\Users\fatihh\source\repos\HasDbHelper\obj\Debug\HasDbHelper.csproj.CoreCompileInputs.cache
+C:\Users\fatihh\source\repos\HasDbHelper\obj\Debug\HasDbHelper.dll
+C:\Users\fatihh\source\repos\HasDbHelper\obj\Debug\HasDbHelper.pdb
